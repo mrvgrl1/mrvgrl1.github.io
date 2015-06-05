@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	background: url("http://images.nationalgeographic.com/wpf/media-live/photos/000/630/overrides/bosphorus-bridge-istanbul_63023_990x742.jpg");
+	background-size: cover;
+	font-family: helvetica;
+}
+
+p {
+	font-size: 22px;
+	color: white;
+}
+
+header {                                                                                
+    background: black;                                                                  
+    height: 20px;                                                                       
+    left: 0;                                                                            
+    margin: 0;                                                                          
+    padding: 0;                                                                         
+    position: absolute;                                                                 
+    width: 100%;                                                                        
+}           
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+ }
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    width: 60px;
+    color: white;
+}
+
